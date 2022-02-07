@@ -1,0 +1,12 @@
+User Scenario: Claire is a junior in the college of business with minimum work experience in the field from a previous internship in highschool. She is looking for a summer internship to get ahead of her peers but isn't well connected enough to get a recommendation from inside those big companies.
+User Story: As a business student with few connections, I need a job site that will help me connect to business leaders and other professionals fast in order to give myself a head start in the business world.
+Features:
+-Upload resume and list skills
+-Connect with employers through a direct message system
+-See/swipe through lots of potential employers quickly
+-Filter employers by my interest in business and economics
+
+User Scenario: Garth, 18, freshmen majoring in game design. Needs internship experience on a flexible schedule in the fall. Prefers working from home.
+User Story: As a game design major with a preference for working at home, and on the lookout for an internship, I need to find businesses that will employ remote and have more flexible part-time student hours.
+Features:
+-Ability to filter by points other than just interest, like hours or remote work
