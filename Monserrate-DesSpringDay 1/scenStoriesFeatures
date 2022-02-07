@@ -1,0 +1,10 @@
+User Scenario: Drew is a Senior in Computer Science with a concentration in Cyber Security. He has also chosen to minor in Economics. After graduation, Drew is looking for a job or internship to jumpstart his career but is having a hard time finding a platform where he can find jobs that fit him.
+
+User Story: Being this close to graduation without a job secured is scary. I want to start working in my field and avoid going back to living with my parents at all costs. I desperately need to find a way I can find and apply to jobs that interest me and fit my major.
+
+Features: 
+Be able to message the recruitment team for a company directly.
+Display desired requirements for the position being offered.
+A way to narrow down and filter the results shown by matching the users to jobs that correspond with their major and location.
+Upload resume to profile so all the user has to do is swipe right and hit the apply button.
+Preferences option on profile so the user has the ability to match up with jobs that interest them.
